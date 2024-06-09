@@ -1,5 +1,5 @@
 # 💫About Me :
-Hello, I’m Mai Van Nam, a person who is passionate about programming. I love turning lines of code into complete software products. With the dream of becoming a professional programmer, I am always learning and improving my skills. I believe that with perseverance and passion, I will achieve my goal. I’m very happy to meet everyone!Hello, I’m Mai Van Nam, a person who is passionate about programming. I love turning lines of code into complete software products. With the dream of becoming a professional programmer, I am always learning and improving my skills. I believe that with perseverance and passion, I will achieve my goal. I’m very happy to meet everyone!
+Hello, I’m Mai Van Nam, a person who is passionate about programming. I love turning lines of code into complete software products. With the dream of becoming a professional programmer, I am always learning and improving my skills. I believe that with perseverance and passion, I will achieve my goal. I’m very happy to meet everyone!
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/fbhttps://www.facebook.com/nam.19thang5/) 
